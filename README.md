@@ -1,0 +1,1 @@
+# IEEE-journal-color-image
